@@ -3,19 +3,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Dylan%20Rodriguez&fontSize=52&fontColor=E4DFFF&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineering%20%26%20Management%20Sciences%20%7C%20Data%20%2B%20Strategy%20%2B%20Operations&descAlignY=58&descSize=18" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=650&lines=Modeling+care+pathways+with+Markov+chains;Building+a+sports+trading+engine+from+scratch;Turning+messy+data+into+decisions+that+ship;Incoming+Junior+%40+Northwestern+McCormick" alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+decisions+that+ship;Building+sports+trading+engine+using+books+as+datapoints;Junior+%40+Northwestern+McCormick" alt="typing animation"/>
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Northwestern%20University-McCormick%20School%20of%20Engineering-4B3F8F?style=flat-square&logo=googlescholar&logoColor=E4DFFF" alt="university badge"/>
 <img src="https://img.shields.io/badge/B.S.-Industrial%20Engineering%20%26%20Management%20Sciences-6C5CE7?style=flat-square" alt="degree badge"/>
-<img src="https://img.shields.io/badge/Location-Evanston%2C%20IL-302B63?style=flat-square&logo=googlemaps&logoColor=E4DFFF" alt="location badge"/>
+<img src="https://img.shields.io/badge/Location-Evanston%2C%20IL-302B63?style=flat-square&logo=googlemaps&logoColor=E4DFFF" alt="location badge evanston"/>
+<img src="https://img.shields.io/badge/Home-Orlando%2C%20FL-302B63?style=flat-square&logo=googlemaps&logoColor=E4DFFF" alt="location badge orlando"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/dylanrodrigueznu"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dylanrodriguez2028@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-Reach%20Out-4B3F8F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:dylanrodriguez2028@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-dylanrodriguez2028%40u.northwestern.edu-4B3F8F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/dyr04"><img src="https://img.shields.io/badge/GitHub-Follow-302B63?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
@@ -30,7 +31,7 @@
 
 ## About Me
 
-I'm a junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences +  Economics. 
+I'm a junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences + Economics.
 
 I'm currently building a sports-market trading project focused on devigging odds, arbitrage detection, and +EV bet identification.
 
@@ -105,7 +106,7 @@ Recreation of the popular 82-0 NBA simulation game with an added 1v1 head-to-hea
 | | |
 |---|---|
 | **Stack** | Python, NBA API, agentic workflow orchestration |
-| **Scale** | Cool minigame|
+| **Scale** | Cool minigame |
 | **Focus** | Team synergy modeling, automated data ingestion, 1v1 game mode |
 | **Status** | In development |
 | **Repository** | [github.com/dyr04/82-0-online](https://github.com/dyr04/82-0-online) |
@@ -155,7 +156,7 @@ Featured on Northwestern's IEMS blog. Built an AI-driven decision framework mapp
 | **Stack** | Python, NBA API, GradientBoost, RandomForest |
 | **Scale** | 25-page delivered report, 5-year performance and financial horizon |
 | **Impact** | Suggested specific trade, free agency, and draft targets for the Dallas Mavericks organization |
-| **Repository** | COMAP MCM/ICM Competition|
+| **Repository** | COMAP MCM/ICM Competition |
 
 </details>
 
@@ -217,7 +218,30 @@ Coordinated end-to-end nutritional logistics for 500+ Big Ten athletes. Streamli
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/CompTIA-ITF%2B-6C5CE7?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA ITF+"/>
+**Anthropic Academy**
+
+<img src="https://img.shields.io/badge/Anthropic-Building%20with%20Subagents-6C5CE7?style=flat-square&logo=anthropic&logoColor=white" alt="anthropic subagents"/>
+<img src="https://img.shields.io/badge/Anthropic-Agent%20Skills-6C5CE7?style=flat-square&logo=anthropic&logoColor=white" alt="anthropic agent skills"/>
+<img src="https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol%20(MCP)-6C5CE7?style=flat-square&logo=anthropic&logoColor=white" alt="anthropic mcp"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude%20API-6C5CE7?style=flat-square&logo=anthropic&logoColor=white" alt="anthropic api"/>
+
+**Google AI Essentials**
+
+<img src="https://img.shields.io/badge/Google%20AI-Fundamentals-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai fundamentals"/>
+<img src="https://img.shields.io/badge/Google%20AI-App%20Building-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai app building"/>
+<img src="https://img.shields.io/badge/Google%20AI-Data%20Analysis-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai data analysis"/>
+<img src="https://img.shields.io/badge/Google%20AI-Content%20Creation-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai content creation"/>
+<img src="https://img.shields.io/badge/Google%20AI-Research%20%26%20Insights-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai research and insights"/>
+<img src="https://img.shields.io/badge/Google%20AI-Writing%20%26%20Communicating-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai writing and communicating"/>
+<img src="https://img.shields.io/badge/Google%20AI-Brainstorming%20%26%20Planning-4B3F8F?style=flat-square&logo=google&logoColor=white" alt="google ai brainstorming and planning"/>
+
+**Adobe**
+
+<img src="https://img.shields.io/badge/Adobe%20Certified%20Professional-Visual%20Design%20Using%20Photoshop-302B63?style=flat-square&logo=adobephotoshop&logoColor=white" alt="adobe certified professional"/>
+
+**CompTIA**
+
+<img src="https://img.shields.io/badge/CompTIA-ITF%2B-6C5CE7?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA ITF+"/>
 
 <br/><br/>
 
@@ -238,7 +262,7 @@ Coordinated end-to-end nutritional logistics for 500+ Big Ten athletes. Streamli
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dyr04&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dyr04&theme=algolia&row=1&column=6&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -290,7 +314,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:dylanrodriguez2028@u.northwestern.edu"><img src="https://img.shields.io/badge/Gmail-Northwestern%20Email-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:dylanrodriguez2028@u.northwestern.edu"><img src="https://img.shields.io/badge/Email-dylanrodriguez2028%40u.northwestern.edu-6C5CE7?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://linkedin.com/in/dylanrodrigueznu"><img src="https://img.shields.io/badge/LinkedIn-dylanrodrigueznu-4B3F8F?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://github.com/dyr04"><img src="https://img.shields.io/badge/GitHub-dyr04-302B63?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
