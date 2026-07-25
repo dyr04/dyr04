@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm an incoming junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences +  Economics. 
+I'm a junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences +  Economics. 
 
 I'm currently building a sports-market trading project focused on devigging odds, arbitrage detection, and +EV bet identification.
 
