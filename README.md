@@ -30,11 +30,11 @@
 
 ## About Me
 
-I'm an incoming junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences with an Economics minor. My work sits at the intersection of data modeling, quantitative strategy, and operations: I spend most of my time turning messy, real-world data into models and recommendations someone can actually act on.
+I'm an incoming junior at Northwestern's McCormick School of Engineering studying Industrial Engineering & Management Sciences +  Economics. 
 
-Recent work includes a second-order Markov chain model forecasting hip fracture patient care pathways (79% top-3 accuracy, deployed as a Shiny dashboard with Medicare cost analysis), an AI-driven roster optimization framework built for an NBA front office case competition, and a fintech loyalty-aggregation proposal for Japan's cashless payment gap that placed top 20 of 200+ teams in Capital One's Consult for America. I've also done hands-on LLM evaluation and prompt engineering work, and I'm currently building a sports-market trading project focused on devigging odds, arbitrage detection, and +EV bet identification.
+I'm currently building a sports-market trading project focused on devigging odds, arbitrage detection, and +EV bet identification.
 
-**Open to:** Summer 2027 internships in data analytics, strategy consulting, operations, and applied AI/ML roles where quantitative rigor meets a real business problem.
+**Open to:** Anything, dm me on LinkedIn!
 
 <br/>
 
