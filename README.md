@@ -42,7 +42,7 @@ I'm currently building a sports-market trading project focused on devigging odds
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,html,css,js" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,r,sql" alt="languages"/>
 
 **Data, Modeling & Statistics**
 
@@ -84,7 +84,7 @@ I'm currently building a sports-market trading project focused on devigging odds
 <summary><b>Fairline — Sports Betting Market Engine</b></summary>
 <br/>
 
-Personal project applying quantitative market analysis to sports betting: devigging sportsbook odds to recover true implied probabilities, scanning for arbitrage across books, and flagging positive-expected-value bets. Built out of wanting to see whether the market could be modeled more precisely than the books price it.
+Personal project applying quantitative market analysis to sports betting: devigging sportsbook odds to recover true implied probabilities, scanning for arbitrage across books, and flagging positive-expected-value bets. Built out of wanting to see whether the market could be modeled more precisely than the books price it, while acknowledging the books as the best datapoint.
 
 | | |
 |---|---|
@@ -105,7 +105,7 @@ Recreation of the popular 82-0 NBA simulation game with an added 1v1 head-to-hea
 | | |
 |---|---|
 | **Stack** | Python, NBA API, agentic workflow orchestration |
-| **Scale** | Targeting 1,000+ peak concurrent users at launch |
+| **Scale** | Cool minigame|
 | **Focus** | Team synergy modeling, automated data ingestion, 1v1 game mode |
 | **Status** | In development |
 | **Repository** | [github.com/dyr04/82-0-online](https://github.com/dyr04/82-0-online) |
@@ -116,7 +116,7 @@ Recreation of the popular 82-0 NBA simulation game with an added 1v1 head-to-hea
 <summary><b>Wildswipe — NU Meal Plan Marketplace</b></summary>
 <br/>
 
-Marketplace concept built with a friend to let Northwestern students buy, sell, and trade unused dining plan swipes. Paused mid-build.
+Marketplace concept to let Northwestern students buy, sell, and trade unused dining plan swipes.
 
 | | |
 |---|---|
@@ -136,11 +136,11 @@ Placed 3rd of 21 teams. Cleaned and structured 8M rows of incomplete patient dat
 
 | | |
 |---|---|
-| **Stack** | R, Shiny, Quarto |
+| **Stack** | R, Shiny |
 | **Scale** | 8M rows, 1,000+ patients, 18 encounter types |
 | **Performance** | 48% top-1 accuracy, 79% top-3 accuracy |
 | **Impact** | Identified $13,000+ in excess cost per fragmented care trajectory; deployed interactive dashboard for hospital administrators |
-| **Repository** | Academic team project, not public |
+| **Repository** | Datafest Competition |
 
 </details>
 
@@ -155,7 +155,7 @@ Featured on Northwestern's IEMS blog. Built an AI-driven decision framework mapp
 | **Stack** | Python, NBA API, GradientBoost, RandomForest |
 | **Scale** | 25-page delivered report, 5-year performance and financial horizon |
 | **Impact** | Suggested specific trade, free agency, and draft targets for the Dallas Mavericks organization |
-| **Repository** | Academic team project, not public |
+| **Repository** | COMAP MCM/ICM Competition|
 
 </details>
 
@@ -170,7 +170,7 @@ Placed top 20 of 200+ teams. Designed a unified loyalty-aggregation app bridging
 | **Stack** | Market and policy research, financial modeling |
 | **Scale** | 13+ market reports synthesized |
 | **Impact** | Proposed path toward Japan's 80% cashless payment adoption target |
-| **Repository** | Academic team project, not public |
+| **Repository** | Case Competition |
 
 </details>
 
@@ -179,7 +179,7 @@ Placed top 20 of 200+ teams. Designed a unified loyalty-aggregation app bridging
 ## Experience
 
 **Business Analyst & Team Coordinator Intern · AperioHub** — Remote
-*Jun 2026 – Present*
+*Jun 2026 – Jul 2026*
 
 Coordinating a global cross-functional consulting team across 4 workstreams to deliver a structured investment and market entry assessment, advising a Singapore-based fund on JV viability for an Indian edtech company targeting US expansion. Led competitive landscape mapping and TAM/SAM/SOM market sizing across 5+ incumbent players.
 
@@ -195,7 +195,7 @@ Evaluated 100+ AI-generated responses, surfacing 10+ recurring structural model 
 **Trainer Aide · Northwestern Athletics** — Evanston, IL
 *Sept 2024 – Jun 2026*
 
-Managed end-to-end nutritional logistics for 500+ Big Ten athletes. Streamlined inventory flow by implementing FIFO across loading dock deliveries and cross-site transfers, and maintained accurate daily records for 100+ unique products.
+Coordinated end-to-end nutritional logistics for 500+ Big Ten athletes. Streamlined inventory flow by implementing FIFO across loading dock deliveries and cross-site transfers, and maintained accurate daily records for 100+ unique products.
 
 `Process Design` `Inventory Management` `Service Operations`
 
@@ -209,8 +209,7 @@ Managed end-to-end nutritional logistics for 500+ Big Ten athletes. Streamlined 
 |---|---|
 | Top 3 of 21 teams | ASA DataFest 2026, healthcare patient journey modeling |
 | Top 20 of 200+ teams | Capital One Consult for America, fintech market entry strategy |
-| Featured on IEMS Blog | Northwestern McCormick, COMAP MCM/ICM NBA analytics project |
-| Medline Discovery Days | Selected attendee, inaugural pre-internship program, July 2026 |
+| COMAP IEMS Blog | Northwestern IEMS, COMAP MCM/ICM NBA analytics project |
 
 </div>
 
