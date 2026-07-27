@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Dylan%20Rodriguez&fontSize=52&fontColor=E4DFFF&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineering%20%26%20Management%20Sciences%20%7C%20Data%20%2B%20Strategy%20%2B%20Operations&descAlignY=58&descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Dylan%20Rodriguez&fontSize=52&fontColor=E4DFFF&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineering%20and%20Management%20Sciences%20%7C%20Data%20%2B%20Strategy%20%2B%20Operations&descAlignY=58&descSize=18" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=650&lines=Turning+messy+data+into+decisions+that+ship;Building+sports+trading+engine;Junior+%40+Northwestern+McCormick" alt="typing animation"/>
